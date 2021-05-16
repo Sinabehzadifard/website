@@ -1,2 +1,0 @@
-# website
-sina's website
